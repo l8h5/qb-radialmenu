@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-
+author 'DEV (KJL)'
 ui_page "html/ui.html"
 
 client_script {
@@ -41,4 +41,5 @@ server_scripts { '@mysql-async/lib/MySQL.lua' }
 
 escrow_ignore {
     'config.lua'
+
 }server_scripts { '@mysql-async/lib/MySQL.lua' }server_scripts { '@mysql-async/lib/MySQL.lua' }
